@@ -3,6 +3,11 @@ body {
   margin: 20px;
 }
 
+.profile-pic {
+  width: 300px;
+  border-radius: 10px;
+}
+
 nav a {
   margin-right: 15px;
   text-decoration: none;
@@ -11,4 +16,5 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
+
 }
